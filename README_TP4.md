@@ -1,4 +1,4 @@
-# TP 4 : Du chaos à l'ordre, apprentissage non supervisé
+# TP4:
 
 Salut, je suis Marouane Chafiqi, étudiant en master TEE.
 
